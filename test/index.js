@@ -1,3 +1,3 @@
-const toolkit = require('../lib')
+const tool_assemble = require('../lib')
 
-console.log(toolkit)
+console.log(tool_assemble)

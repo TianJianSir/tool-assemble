@@ -1,5 +1,5 @@
 {
-  "name": "toolkit",
+  "name": "tool-assemble",
   "version": "1.0.0",
   "description": "项目中的工具集积累，避免每个项目都copy一份util过去",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TianJianSir/toolkit.git"
+    "url": "git+https://github.com/TianJianSir/tool-assemble.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TianJianSir/toolkit/issues"
+    "url": "https://github.com/TianJianSir/tool-assemble/issues"
   },
-  "homepage": "https://github.com/TianJianSir/toolkit#readme"
+  "homepage": "https://github.com/TianJianSir/tool-assemble#readme"
 }
