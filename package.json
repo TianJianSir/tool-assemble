@@ -1,6 +1,6 @@
 {
   "name": "tool-assemble",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "项目中的工具集积累，避免每个项目都copy一份util过去",
   "main": "index.js",
   "scripts": {
